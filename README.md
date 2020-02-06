@@ -19,7 +19,7 @@ sudo docker-compose up -d
 
   
 
-3.Iinstall dependencies with yarn
+3. Iinstall dependencies with yarn
 
   
 
