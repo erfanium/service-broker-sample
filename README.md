@@ -6,8 +6,8 @@ Postman json file included
 ## Development
 
   
-
-Create and run a MongoDB server. example with Docker
+1. Check config files
+2. Create and run a MongoDB server. example with DockerCompose
 
   
 
@@ -19,7 +19,7 @@ sudo docker-compose up -d
 
   
 
-install dependencies with yarn
+3.Iinstall dependencies with yarn
 
   
 
@@ -31,7 +31,7 @@ yarn
 
   
 
-Run it
+4. Run it
 
   
 
